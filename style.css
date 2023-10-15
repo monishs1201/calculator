@@ -62,6 +62,6 @@ button{
 }
 @media (width>=480px){
     .calculator{
-        transform:scale(2.3);
+        transform:scale(1.6);
     }
 }
